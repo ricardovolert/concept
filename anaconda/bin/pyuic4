@@ -1,2 +1,0 @@
-#!/bin/sh
-exec /home/jeppe/Documents/Uni/Speciale/Nbody/concept/anaconda/bin/python3 /home/jeppe/Documents/Uni/Speciale/Nbody/concept/anaconda/lib/python3.4/site-packages/PyQt4/uic/pyuic.py ${1+"$@"}
