@@ -1,0 +1,29 @@
+{
+  "arch": "x86_64", 
+  "build": "np19py34_0", 
+  "build_number": 0, 
+  "depends": [
+    "dateutil", 
+    "freetype 2.4.10", 
+    "libpng 1.5.13", 
+    "numpy 1.9*", 
+    "pyparsing 2.0.3", 
+    "pyqt 4.10.4", 
+    "python 3.4*", 
+    "pytz"
+  ], 
+  "license": "PSF-based (http://matplotlib.sourceforge.net/users/license.html)", 
+  "name": "matplotlib", 
+  "platform": "linux", 
+  "requires": [
+    "dateutil 2.1", 
+    "freetype 2.4.10", 
+    "libpng 1.5.13", 
+    "numpy 1.9", 
+    "pyparsing 2.0.3", 
+    "pyqt 4.10.4", 
+    "python 3.4", 
+    "pytz 2014.9"
+  ], 
+  "version": "1.4.3"
+}

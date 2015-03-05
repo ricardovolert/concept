@@ -1,0 +1,17 @@
+{
+  "arch": "x86_64", 
+  "build": "py34_2", 
+  "build_number": 2, 
+  "depends": [
+    "python 3.4*", 
+    "six"
+  ], 
+  "license": "BSD", 
+  "name": "dateutil", 
+  "platform": "linux", 
+  "requires": [
+    "python 3.4", 
+    "six 1.6.1"
+  ], 
+  "version": "2.1"
+}

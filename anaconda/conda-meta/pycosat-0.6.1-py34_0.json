@@ -1,0 +1,26 @@
+{
+  "arch": "x86_64",
+  "build": "py34_0",
+  "build_number": 0,
+  "depends": [
+    "python 3.4*"
+  ],
+  "files": [
+    "lib/python3.4/site-packages/__pycache__/test_pycosat.cpython-34.pyc",
+    "lib/python3.4/site-packages/pycosat-0.6.1-py3.4.egg-info",
+    "lib/python3.4/site-packages/pycosat.cpython-34m.so",
+    "lib/python3.4/site-packages/test_pycosat.py"
+  ],
+  "license": "MIT",
+  "link": {
+    "source": "/home/jeppe/Documents/Uni/Speciale/Nbody/concept/anaconda/pkgs/pycosat-0.6.1-py34_0",
+    "type": "hard-link"
+  },
+  "name": "pycosat",
+  "platform": "linux",
+  "requires": [
+    "python 3.4"
+  ],
+  "url": null,
+  "version": "0.6.1"
+}

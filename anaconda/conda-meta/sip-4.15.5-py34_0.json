@@ -1,0 +1,28 @@
+{
+  "arch": "x86_64",
+  "build": "py34_0",
+  "build_number": 0,
+  "channel": "http://repo.continuum.io/pkgs/free/linux-64/",
+  "depends": [
+    "python 3.4*"
+  ],
+  "files": [
+    "bin/sip",
+    "include/python3.4m/sip.h",
+    "lib/python3.4/site-packages/sip.so",
+    "lib/python3.4/site-packages/sipconfig.py",
+    "lib/python3.4/site-packages/sipdistutils.py"
+  ],
+  "license": "GPL",
+  "link": {
+    "source": "/home/jeppe/Documents/Uni/Speciale/Nbody/concept/anaconda/pkgs/sip-4.15.5-py34_0",
+    "type": "hard-link"
+  },
+  "md5": "e59296d17ce037aac500cb94fb843496",
+  "name": "sip",
+  "platform": "linux",
+  "requires": [],
+  "size": 224746,
+  "url": "http://repo.continuum.io/pkgs/free/linux-64/sip-4.15.5-py34_0.tar.bz2",
+  "version": "4.15.5"
+}

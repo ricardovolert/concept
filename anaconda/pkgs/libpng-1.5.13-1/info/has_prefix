@@ -1,0 +1,3 @@
+bin/libpng15-config
+lib/libpng15.la
+lib/pkgconfig/libpng15.pc

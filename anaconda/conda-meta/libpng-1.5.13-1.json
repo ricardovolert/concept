@@ -1,0 +1,39 @@
+{
+  "arch": "x86_64",
+  "build": "1",
+  "build_number": 1,
+  "channel": "http://repo.continuum.io/pkgs/free/linux-64/",
+  "depends": [],
+  "files": [
+    "bin/libpng-config",
+    "bin/libpng15-config",
+    "include/libpng15/png.h",
+    "include/libpng15/pngconf.h",
+    "include/libpng15/pnglibconf.h",
+    "include/png.h",
+    "include/pngconf.h",
+    "include/pnglibconf.h",
+    "lib/libpng.a",
+    "lib/libpng.la",
+    "lib/libpng.so",
+    "lib/libpng15.a",
+    "lib/libpng15.la",
+    "lib/libpng15.so",
+    "lib/libpng15.so.15",
+    "lib/libpng15.so.15.13.0",
+    "lib/pkgconfig/libpng.pc",
+    "lib/pkgconfig/libpng15.pc"
+  ],
+  "license": "Open Source (http://www.libpng.org/pub/png/src/libpng-LICENSE.txt)",
+  "link": {
+    "source": "/home/jeppe/Documents/Uni/Speciale/Nbody/concept/anaconda/pkgs/libpng-1.5.13-1",
+    "type": "hard-link"
+  },
+  "md5": "5ca270828ba83b60fd6660f2aa4bf401",
+  "name": "libpng",
+  "platform": "linux",
+  "requires": [],
+  "size": 155845,
+  "url": "http://repo.continuum.io/pkgs/free/linux-64/libpng-1.5.13-1.tar.bz2",
+  "version": "1.5.13"
+}

@@ -1,0 +1,4 @@
+bin/f2py3
+lib/python3.4/site-packages/numpy/__config__.py
+lib/python3.4/site-packages/numpy/distutils/__config__.py
+lib/python3.4/site-packages/numpy/distutils/site.cfg

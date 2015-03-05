@@ -1,0 +1,6 @@
+#!/home/jeppe/Documents/Uni/Speciale/Nbody/concept/anaconda/bin/python3
+if __name__ == '__main__':
+    import sys
+    from Cython.Compiler.Main import setuptools_main
+
+    sys.exit(setuptools_main())

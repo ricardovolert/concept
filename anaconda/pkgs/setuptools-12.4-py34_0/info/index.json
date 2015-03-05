@@ -1,0 +1,15 @@
+{
+  "arch": "x86_64", 
+  "build": "py34_0", 
+  "build_number": 0, 
+  "depends": [
+    "python 3.4*"
+  ], 
+  "license": "PSF or ZPL", 
+  "name": "setuptools", 
+  "platform": "linux", 
+  "requires": [
+    "python 3.4"
+  ], 
+  "version": "12.4"
+}

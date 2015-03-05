@@ -1,0 +1,7 @@
+pkg: libpng-1.5.13
+dist: libpng-1.5.13-1
+home: http://www.libpng.org/pub/png/libpng.html
+license: Open Source (http://www.libpng.org/pub/png/src/libpng-LICENSE.txt)
+has_bin: True
+has_lib: True
+has_py: False

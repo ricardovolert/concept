@@ -1,0 +1,9 @@
+{
+  "arch": "x86_64", 
+  "build": "0", 
+  "build_number": 0, 
+  "name": "qt", 
+  "platform": "linux", 
+  "requires": [], 
+  "version": "4.8.5"
+}

@@ -1,0 +1,6 @@
+#!/home/jeppe/Documents/Uni/Speciale/Nbody/concept/anaconda/bin/python3
+if __name__ == '__main__':
+    import sys
+    from setuptools.command.easy_install import main
+
+    sys.exit(main())

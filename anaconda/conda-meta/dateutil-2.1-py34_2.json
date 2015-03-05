@@ -1,0 +1,43 @@
+{
+  "arch": "x86_64",
+  "build": "py34_2",
+  "build_number": 2,
+  "channel": "http://repo.continuum.io/pkgs/free/linux-64/",
+  "depends": [
+    "python 3.4*",
+    "six"
+  ],
+  "files": [
+    "lib/python3.4/site-packages/dateutil/__init__.py",
+    "lib/python3.4/site-packages/dateutil/__pycache__/__init__.cpython-34.pyc",
+    "lib/python3.4/site-packages/dateutil/__pycache__/easter.cpython-34.pyc",
+    "lib/python3.4/site-packages/dateutil/__pycache__/parser.cpython-34.pyc",
+    "lib/python3.4/site-packages/dateutil/__pycache__/relativedelta.cpython-34.pyc",
+    "lib/python3.4/site-packages/dateutil/__pycache__/rrule.cpython-34.pyc",
+    "lib/python3.4/site-packages/dateutil/__pycache__/tz.cpython-34.pyc",
+    "lib/python3.4/site-packages/dateutil/__pycache__/tzwin.cpython-34.pyc",
+    "lib/python3.4/site-packages/dateutil/easter.py",
+    "lib/python3.4/site-packages/dateutil/parser.py",
+    "lib/python3.4/site-packages/dateutil/relativedelta.py",
+    "lib/python3.4/site-packages/dateutil/rrule.py",
+    "lib/python3.4/site-packages/dateutil/tz.py",
+    "lib/python3.4/site-packages/dateutil/tzwin.py",
+    "lib/python3.4/site-packages/dateutil/zoneinfo/__init__.py",
+    "lib/python3.4/site-packages/dateutil/zoneinfo/__pycache__/__init__.cpython-34.pyc",
+    "lib/python3.4/site-packages/dateutil/zoneinfo/zoneinfo--latest.tar.gz",
+    "lib/python3.4/site-packages/python_dateutil-2.1-py3.4.egg-info"
+  ],
+  "license": "BSD",
+  "link": {
+    "source": "/home/jeppe/Documents/Uni/Speciale/Nbody/concept/anaconda/pkgs/dateutil-2.1-py34_2",
+    "type": "hard-link"
+  },
+  "md5": "825393ef686215b278a4e5af6efc17e6",
+  "name": "dateutil",
+  "org_name": "python-dateutil",
+  "platform": "linux",
+  "requires": [],
+  "size": 150354,
+  "url": "http://repo.continuum.io/pkgs/free/linux-64/dateutil-2.1-py34_2.tar.bz2",
+  "version": "2.1"
+}

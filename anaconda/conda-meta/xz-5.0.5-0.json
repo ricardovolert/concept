@@ -1,0 +1,39 @@
+{
+  "arch": "x86_64",
+  "build": "0",
+  "build_number": 0,
+  "depends": [],
+  "files": [
+    "include/lzma.h",
+    "include/lzma/base.h",
+    "include/lzma/bcj.h",
+    "include/lzma/block.h",
+    "include/lzma/check.h",
+    "include/lzma/container.h",
+    "include/lzma/delta.h",
+    "include/lzma/filter.h",
+    "include/lzma/hardware.h",
+    "include/lzma/index.h",
+    "include/lzma/index_hash.h",
+    "include/lzma/lzma.h",
+    "include/lzma/stream_flags.h",
+    "include/lzma/version.h",
+    "include/lzma/vli.h",
+    "lib/liblzma.a",
+    "lib/liblzma.la",
+    "lib/liblzma.so",
+    "lib/liblzma.so.5",
+    "lib/liblzma.so.5.0.5",
+    "lib/pkgconfig/liblzma.pc"
+  ],
+  "license": "Public Domain and GPL",
+  "link": {
+    "source": "/home/jeppe/Documents/Uni/Speciale/Nbody/concept/anaconda/pkgs/xz-5.0.5-0",
+    "type": "hard-link"
+  },
+  "name": "xz",
+  "platform": "linux",
+  "requires": [],
+  "url": null,
+  "version": "5.0.5"
+}
