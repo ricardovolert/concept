@@ -1,0 +1,17 @@
+# This is the default parameter file used by the render3D utility.
+# Parameters can be specified as any valid Python 3 expression.
+# Mathematical as well as NumPy functions and constants are available.
+# Physical units may and should be used where applicable.
+# Absolute paths defined in the .paths file may be used via the paths dict.
+# For more information about the different parameters,
+# see chapter 5 of guide.pdf.
+
+# Input/output
+output_bases  = {'render3D': 'render3D'}
+render3D_select = {'all': True}
+
+# Graphics
+render3D_resolution = 1080
+render3D_colors     = {}
+render3D_bgcolor    = 'black'
+
